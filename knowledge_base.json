@@ -1,0 +1,23 @@
+{
+  "domain": "CapTable AI",
+  "subtitle": "SAFE Conversion, Liquidation Preferences & Dilution",
+  "glossary": [
+    {
+      "term": "SAFE",
+      "definition": "Simple Agreement for Future Equity; a convertible instrument that converts to equity at a triggering financing event."
+    },
+    {
+      "term": "Liquidation Preference",
+      "definition": "The contractual right of preferred shareholders to be paid before common holders in an exit, often 1x."
+    },
+    {
+      "term": "Option Pool Shuffle",
+      "definition": "Expanding the employee option pool pre-money in a new round, diluting existing shareholders disproportionately."
+    }
+  ],
+  "starter_prompts": [
+    "Model Series A pro-rata dilution",
+    "Simulate 1x non-participating pref",
+    "Convert post-money SAFE notes"
+  ]
+}
